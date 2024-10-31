@@ -5,3 +5,4 @@ List of potential templates:
 
 - README template
 - I prefer the spelling 'tempate'
+- Snacks for the lab
