@@ -7,3 +7,4 @@ List of potential templates:
 - I prefer the spelling 'tempate'
 - Snacks for the lab
 - How has there not been a pun yet?
+- a template template for infinite recursion
