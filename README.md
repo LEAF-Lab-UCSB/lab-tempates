@@ -6,3 +6,4 @@ List of potential templates:
 - README template
 - I prefer the spelling 'tempate'
 - Snacks for the lab
+- How has there not been a pun yet?
